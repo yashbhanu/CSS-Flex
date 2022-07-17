@@ -1,2 +1,2 @@
 # CSS-Flex
-CSS Flex
+A CSS Flexbox demonstration
