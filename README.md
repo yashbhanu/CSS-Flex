@@ -1,2 +1,2 @@
 # CSS-Flex
-A CSS Flexbox demonstration.
+A CSS-Flexbox demonstration.
